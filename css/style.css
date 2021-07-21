@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   padding: 0;
   margin: 0;
@@ -11,6 +12,7 @@ html {
 
 h1 {
   font-size: 5rem;
+  font-family: "07ラノベPOP";
   display: inline-block;
 }
 
@@ -36,7 +38,7 @@ h1 {
   list-style: none;
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 10px;
 }
 .wrap .HeaderBar .HeaderBarMenu li {
   float: right;

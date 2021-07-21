@@ -12,7 +12,10 @@ html{
 }
 
 h1{
-  font-size: 5rem;
+  font: {
+    size: 5rem;
+    family: "07ラノベPOP";
+  }
   display: inline-block;
 }
 
@@ -38,7 +41,7 @@ h1{
       list-style: none;
       position: absolute;
       bottom: 0;
-      right: 0;
+      right: 10px;
       li{
         float: right;
         font-size: 20px;
