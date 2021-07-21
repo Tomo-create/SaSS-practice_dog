@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html{
+  font-size: 62.5%;
+  background: {
+    image: url(../img/StripeBlue.jpg);
+    repeat: repeat;
+  }
+}
+
+h1{
+  font-size: 1.6rem;
+}
+
+.wrap{
+  width: 1025px;
+  margin: auto;
+}
